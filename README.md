@@ -11,7 +11,6 @@
 ## Prerequisites    
     1- VsCode 
     2- Browser
-    3- Browser
     
 ## Starting
     To edit the project open in your preferred editor and to view just open the index.html in the browser
